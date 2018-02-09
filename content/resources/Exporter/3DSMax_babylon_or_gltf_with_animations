@@ -19,5 +19,6 @@ Steps to export any 3D model with animation to .babylon / .gltf format
 
 ![babylon_exporter](https://user-images.githubusercontent.com/714971/36027124-e9cb5dc2-0dbf-11e8-8a61-4b6909bd5377.jpg)
 
+
 9.Select checkbox ”Copy textures to output” and export.
 10.Check the exported model with BabylonJS sandbox http://sandbox.babylonjs.com/, animations and model will get exported properly.
